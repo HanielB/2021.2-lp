@@ -7,8 +7,6 @@ seo:
   name: Programming Languages
 ---
 
-- [Plano de ensino](plan.pdf)
-
 # {{ site.tagline }}
 {: .mb-2 }
 {{ site.description }}
@@ -18,6 +16,10 @@ seo:
 {{ site.announcements.last }}
 [Avisos](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
+
+---
+
+- [Plano de ensino](plan.pdf)
 
 ---
 
