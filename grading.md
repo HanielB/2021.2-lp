@@ -8,8 +8,6 @@ description: The activities to be graded
 
 {: .no_toc .mb-2 }
 
-## Exams
-
 |           | Value | When                    |
 |-----------|-------|-------------------------|
 | Exam 1    | 25    | 30/06                   |
