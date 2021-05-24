@@ -8,7 +8,7 @@ title: Topic 00 - Course introduction and overview
 19 Aug
 : **Course introduction**
   : [ERE]({{ site.baseurl }}{% link ere.md %}),
-  : [Grading]({{ site.baseurl }}{% link grading.md %})
+  : [Grading]({{ site.baseurl }}{% link grading.md %}),
   : [Recorded lecture](https://youtu.be/D6Q2gGdzIZU)
 
 19 Aug
