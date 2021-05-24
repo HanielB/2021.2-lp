@@ -7,10 +7,9 @@ title: Topic 00 - Course introduction and overview
 
 19 Aug
 : **Course introduction**
-  : Who am I,
   : [ERE]({{ site.baseurl }}{% link ere.md %}),
   : [Grading]({{ site.baseurl }}{% link grading.md %})
-  : [Recorded lecture](https://youtu.be/D6Q2gGdzIZU)
+  : [Recording lecture](https://youtu.be/D6Q2gGdzIZU)
 
 19 Aug
 : **Course overview**
