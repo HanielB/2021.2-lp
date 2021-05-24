@@ -38,16 +38,12 @@ title: SML Introduction
 
 - We will be using mostly interpreted ML.
 
-## Using the interpreter
+## Topics covered
 
-## Equality types and reals
-
-## Lazy evaluation
-
-## Overloaded operators
-
-## Variable declaration
-
-## Tuples
-
-## Lists
+- Using the interpreter
+- Equality types and reals
+- Lazy evaluation
+- Overloaded operators
+- Variable declaration
+- Tuples
+- Lists
