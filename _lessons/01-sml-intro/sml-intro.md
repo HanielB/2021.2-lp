@@ -6,9 +6,6 @@ title: SML Introduction
 # SML Introduction
 {: .no_toc .mb-2 }
 
-- TOC
-{:toc}
-
 ## Readings
 
 - [Pre-recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZxjkRr595OVUL2GC3zCouTm)
