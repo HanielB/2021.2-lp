@@ -40,26 +40,14 @@ title: SML Introduction
 
 ## Using the interpreter
 
-TODO
-
 ## Equality types and reals
-
-TODO
 
 ## Lazy evaluation
 
-TODO
-
 ## Overloaded operators
-
-TODO
 
 ## Variable declaration
 
-TODO
-
 ## Tuples
-
-TODO
 
 ## Lists
