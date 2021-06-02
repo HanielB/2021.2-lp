@@ -24,3 +24,7 @@ title: Topic 01 - SML introduction
 02 Jun
 : [**Higher-order functions**]({{ site.baseurl }}{% link _lessons/05-ho-functions/ho-functions.md %})
   : [Pre-recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZyLPWOzBEkBu15ng1F2eIvX)
+
+02 Jun
+: **Practical session and Q&A**
+  : [Recording](https://youtu.be/XtiI2va69PU)
