@@ -17,3 +17,11 @@ title: Topic 02 - Syntax and semantics of programming languages
   : [Pre-recorded lecture: Lambda calculus](https://youtube.com/playlist?list=PLeIbBi3CwMZxFVZX1yGTiGiJO7gWd4YJ5)
 : Practical session and Q&A
   : [Recording](https://youtu.be/gMaqpokYCc8)
+
+21 Jun
+: [**Binding and scopes**]({{ site.baseurl }}{% link _lessons/06-languages/binding-scopes.md %})
+  : [Pre-recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZx-ypmoxWNxo_OqegclNVAO)
+
+23 Jun
+: [**Closures**]({{ site.baseurl }}{% link _lessons/06-languages/closures.md %})
+  : [Pre-recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwsNyF3Pt9n-sc6U_m_7Qia)
