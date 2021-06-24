@@ -25,3 +25,5 @@ title: Topic 02 - Syntax and semantics of programming languages
 23 Jun
 : [**Closures**]({{ site.baseurl }}{% link _lessons/06-languages/closures.md %})
   : [Pre-recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwsNyF3Pt9n-sc6U_m_7Qia)
+: Q&A
+  : [Recording](https://youtu.be/I0tak_TrZ3E)
