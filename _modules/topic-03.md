@@ -14,6 +14,14 @@ title: Topic 03 - Implementing programming languages
 : Tutorial for ML parser
   : [Lecture](https://youtu.be/2M7pQ9uvn7M)
 
-07, 12 Jul
+12, 14 Jul
 : [**Memory management**]({{ site.baseurl }}{% link _lessons/08-memory/memory.md %})
   : [Pre-recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZxEik6SHGVkc1x1VtTJBsaR)
+
+19 Jul
+: [**Abstraction and Abstract Data Types**]({{ site.baseurl }}{% link _lessons/09-adts/adts.md %})
+  : [Pre-recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZzTwPtz2Vm4SoaB_aHaQMAU)
+
+21 Jul
+: [**Object Orientation**]({{ site.baseurl }}{% link _lessons/09-adts/oo.md %})
+  : [Pre-recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwZ3_74fYH6KVaUb_q2tG5c)
