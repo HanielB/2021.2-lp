@@ -25,3 +25,5 @@ title: Topic 03 - Implementing programming languages
 21 Jul
 : [**Object Orientation**]({{ site.baseurl }}{% link _lessons/09-adts/oo.md %})
   : [Pre-recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwZ3_74fYH6KVaUb_q2tG5c)
+: Q&A
+  : [Recording](https://youtu.be/lfYFQQ6etg8)
