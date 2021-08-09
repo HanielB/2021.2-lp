@@ -34,6 +34,9 @@ title: Topic 03 - Implementing programming languages
 : Project 1 Q&A
   : [Recording](https://youtu.be/-tf_eS2AlD8)
 
-28 Jul, 02 Ago
+28 Jul, 02 Aug
 : [**Parameter passing**]({{ site.baseurl }}{% link _lessons/11-parameters/parameters.md %})
   : [Pre-recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZxCfI53xXJQdDkCF0YbgGbm)
+
+04 Aug
+: Q&A
