@@ -24,3 +24,7 @@ title: Topic 04 - Logic programming
 18 Aug
 : [**Problem solving with Prolog**]({{ site.baseurl }}{% link _lessons/12-prolog/problem-solving.md %})
   : [Pre-recorded lecture](https://youtube.com/playlist?list=PLeIbBi3CwMZyVoCL1iEY5WTG1Sz22aSs6)
+
+23 Aug
+: Q&A
+  : [Recording](https://youtu.be/_wU9RiNZXsc)
