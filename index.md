@@ -22,8 +22,7 @@ seo:
 - [Plano de ensino](plan.pdf)
 - Instructor:
   - [Haniel Barbosa](https://homepages.dcc.ufmg.br/~hbarbosa/), Office 4323, DCC, hbarbosa@dcc.ufmg.br
-- TA:
-  - Isadora de Oliveira, oliveiraisadora119@gmail.com
+- TA: (not yet appointed)
 
 ---
 
@@ -104,9 +103,8 @@ An introduction to logic programming and the Prolog programming language.
 
 # Project
 
-In the [Project](/project) the students will exercise their knowledge on
-programming language concepts to define an interpreter for an ML-style toy
-language.
+In the course project the students will exercise their knowledge on programming
+language concepts to define an interpreter for an ML-style toy language.
 
 # Bibliography
 

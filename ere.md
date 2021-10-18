@@ -13,7 +13,7 @@ The course will be organized as follows:
 - Synchronous lectures
   - Q&A and reinforcement learning
   - Practical sessions covering relevant material related to course subjects
-  - Weekly at Wednesdays, 19:00-20:40
+  - At Wednesdays, 13:00-14:40 and 19:00-20:40. See the [course plan](plan.pdf) for the dates.
   - Lectures on Zoom. Check Moodle for link.
 
 Recordings of both kinds of lectures will be made available in the [Lectures]({{ site.baseurl }}{% link lectures.md %}) page via YouTube links.
