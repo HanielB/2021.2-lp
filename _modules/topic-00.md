@@ -13,4 +13,4 @@ title: Topic 00 - Course introduction and overview
 20 Oct
 : **Course introduction**
   : [ERE]({{ site.baseurl }}{% link ere.md %}),
-  : [Grading]({{ site.baseurl }}{% link grading.md %}),
+  : [Grading]({{ site.baseurl }}{% link grading.md %})
