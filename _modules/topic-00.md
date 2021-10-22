@@ -13,7 +13,7 @@ title: Topic 00 - Course introduction and overview
 20 Oct
 : **Course introduction**
   : [ERE]({{ site.baseurl }}{% link ere.md %}),
-  : [Grading]({{ site.baseurl }}{% link grading.md %})
-  : [Slides]({{ site.baseurl }}{% link _lessons/00-course_intro/00-course-intro.pdf %})
-  : [Recording 13:00](https://youtu.be/O5K-YL5nJKQ)
+  : [Grading]({{ site.baseurl }}{% link grading.md %}),
+  : [Slides]({{ site.baseurl }}{% link _lessons/00-course_intro/00-course-intro.pdf %}),
+  : [Recording 13:00](https://youtu.be/O5K-YL5nJKQ),
   : [Recording 19:00](https://youtu.be/rK1ssTSZd7M)
