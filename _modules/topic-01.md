@@ -16,3 +16,7 @@ title: Topic 01 - SML introduction
 27 Oct
 : [**Algebraic datatypes in SML**]({{ site.baseurl }}{% link _lessons/03-adts/adts.md %})
   : [Pre-recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZzlXW1WrTxseddFxgmoC3-C)
+
+03 Nov
+: [**Polymorphism**]({{ site.baseurl }}{% link _lessons/04-polymorphism/polymorphism.md %})
+  : [Pre-recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwmgIVh73e1zWAvMfxiuZkR)
