@@ -20,3 +20,8 @@ title: Topic 01 - SML introduction
 03 Nov
 : [**Polymorphism**]({{ site.baseurl }}{% link _lessons/04-polymorphism/polymorphism.md %})
   : [Pre-recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwmgIVh73e1zWAvMfxiuZkR)
+
+03 Nov
+: **Practical session and Q&A**
+  : [Recording 13:00](https://youtu.be/K5Evf13tzGg)
+  : [Recording 19:00](https://youtu.be/HN_iPE4bbto)
