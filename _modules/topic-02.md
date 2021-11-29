@@ -18,3 +18,11 @@ title: Topic 02 - Syntax and semantics of programming languages
 : **Practical session and Q&A**
   : [Recording 13:00](https://youtu.be/xm7SO97IXIQ), [Code]({{ site.baseurl }}{% link _lessons/06-languages/semantics-13h.sml %})
   : [Recording 19:00](https://youtu.be/-ldfnrCOwoM), [Code]({{ site.baseurl }}{% link _lessons/06-languages/semantics-19h.sml %})
+
+29 Nov
+: [**Binding and scopes**]({{ site.baseurl }}{% link _lessons/06-languages/binding-scopes.md %})
+  : [Pre-recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZx-ypmoxWNxo_OqegclNVAO)
+
+01 Dec
+: [**Closures**]({{ site.baseurl }}{% link _lessons/06-languages/closures.md %})
+  : [Pre-recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwsNyF3Pt9n-sc6U_m_7Qia)
