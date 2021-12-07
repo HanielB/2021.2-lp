@@ -26,3 +26,8 @@ title: Topic 02 - Syntax and semantics of programming languages
 01 Dec
 : [**Closures**]({{ site.baseurl }}{% link _lessons/06-languages/closures.md %})
   : [Pre-recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwsNyF3Pt9n-sc6U_m_7Qia)
+
+06 Dec
+: Tutorial for ML parser
+  : [Lecture 13:00](https://youtu.be/VqMB3CMPWzA)
+  : [Lecture 19:00](https://youtu.be/Ty7H3H2bjgI)
