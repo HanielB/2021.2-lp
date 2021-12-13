@@ -31,3 +31,7 @@ title: Topic 02 - Syntax and semantics of programming languages
 : Tutorial for ML parser
   : [Lecture 13:00](https://youtu.be/VqMB3CMPWzA)
   : [Lecture 19:00](https://youtu.be/Ty7H3H2bjgI)
+
+13 Dec
+: Q&A
+  : [Recording](https://youtu.be/ZagPC8SDKEc)
