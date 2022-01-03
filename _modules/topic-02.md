@@ -36,3 +36,6 @@ title: Topic 02 - Syntax and semantics of programming languages
 : Q&A
   : [Recording 13:00](https://youtu.be/ZagPC8SDKEc)
   : [Recording 19:00](https://youtu.be/3yFk812Slmg)
+
+15 Dec
+: **Exam 1**
