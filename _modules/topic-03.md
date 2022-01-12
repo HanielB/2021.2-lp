@@ -17,3 +17,6 @@ title: Topic 03 - Implementing programming languages
 12 Jan
 : [**Abstraction and Abstract Data Types**]({{ site.baseurl }}{% link _lessons/09-adts/adts.md %})
   : [Pre-recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZzTwPtz2Vm4SoaB_aHaQMAU)
+: **Q&A**
+  : [13:00](https://youtu.be/jrs4-G0RSLk),
+  : [19:00](https://youtu.be/82PimMYjWRM)
