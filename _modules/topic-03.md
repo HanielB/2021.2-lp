@@ -20,3 +20,11 @@ title: Topic 03 - Implementing programming languages
 : **Q&A**
   : [13:00](https://youtu.be/jrs4-G0RSLk),
   : [19:00](https://youtu.be/82PimMYjWRM)
+
+17 Jan
+: [**Object Orientation**]({{ site.baseurl }}{% link _lessons/09-adts/oo.md %})
+  : [Pre-recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwZ3_74fYH6KVaUb_q2tG5c)
+
+20 Jan
+: [**Error Handling**]({{ site.baseurl }}{% link _lessons/10-error/error-handling.md %})
+  : [Pre-recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZyTxht1aVqX2GC10Ol8qTVG)
