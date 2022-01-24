@@ -28,3 +28,10 @@ title: Topic 03 - Implementing programming languages
 20 Jan
 : [**Error Handling**]({{ site.baseurl }}{% link _lessons/10-error/error-handling.md %})
   : [Pre-recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZyTxht1aVqX2GC10Ol8qTVG)
+
+24 Jan, 31 Jan
+: [**Parameter passing**]({{ site.baseurl }}{% link _lessons/11-parameters/parameters.md %})
+  : [Pre-recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZxCfI53xXJQdDkCF0YbgGbm)
+
+26 Jan
+: Tutorial Project 2
