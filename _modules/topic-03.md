@@ -34,4 +34,6 @@ title: Topic 03 - Implementing programming languages
   : [Pre-recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZxCfI53xXJQdDkCF0YbgGbm)
 
 26 Jan
-: Tutorial Project 2
+: **Roadmap for project 2**
+  : [Lecture 13:00](https://youtu.be/sv9f97hZc3M)
+  : [Lecture 19:00](https://youtu.be/NilXhYg-SRA)
