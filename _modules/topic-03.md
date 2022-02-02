@@ -37,3 +37,8 @@ title: Topic 03 - Implementing programming languages
 : **Roadmap for project 2**
   : [Lecture 13:00](https://youtu.be/sv9f97hZc3M)
   : [Lecture 19:00](https://youtu.be/NilXhYg-SRA)
+
+02 Feb
+: **Q&A**
+  : [13:00](https://youtu.be/WMzRz-nghKhQ),
+  : 19:00
