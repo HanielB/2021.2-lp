@@ -121,7 +121,7 @@ A rule specifies how new facts can be derived once some conditions are met.
 greatGrandparent(GGP, GGC) :- parent(GGP, GP), parent(GP, P), parent(P, GGC).
 ```
 
-The term to the left of `:-` is true if the term to the left is true. Rules can
+The term to the left of `:-` is true if the term to the right is true. Rules can
 be seen as definitions for predicates: the `greatGrandparent` predicate holds
 for terms `GGP` and `GGC` when `GGP` has a child who has a child who is `GGC`.
 
