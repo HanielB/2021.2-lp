@@ -135,8 +135,8 @@ greatGrandparent(GGP, GGC) :- grandparent(GGP, P), parent(P, GGC).
 Note that the order is irrelevant. The above is equivalent to
 
 ``` prolog
-grandparent(GP, GC) :- parent(GP, P), parent(P, GC).
 greatGrandparent(GGP, GGC) :- grandparent(GGP, P), parent(P, GGC).
+grandparent(GP, GC) :- parent(GP, P), parent(P, GC).
 ```
 
 Rules can be defined recursively:
