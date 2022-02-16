@@ -80,7 +80,7 @@ instantiates `X`.
 The algorithm above has a serious issue: it can lead to bogus
 solutions. Consider the unification pair `<X, f(X)>`. With the above algorithm
 the solution would be `{X = f(X)}`, which does not solve the unification
-problem, since appling this substitution transforms `X` into `f(X)` but `f(X)`
+problem, since applying this substitution transforms `X` into `f(X)` but `f(X)`
 into `f(f(X))`.
 
 To avoid this, unification algorithms implement another rule, the *occurs
