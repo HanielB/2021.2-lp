@@ -17,6 +17,7 @@ title: Unification and Resolution
 - [Unification in first-order logic](https://en.wikipedia.org/wiki/Unification_(computer_science)#Syntactic_unification_of_first-order_terms)
 - [Occurs check](https://en.wikipedia.org/wiki/Occurs_check)
 - [Resolution](https://en.wikipedia.org/wiki/Resolution_(logic))
+- [SLD Resolution](https://en.wikipedia.org/wiki/SLD_resolution)
 
 ### Recommended readings
 
